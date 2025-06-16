@@ -10,51 +10,44 @@
 
 ## 🌿 기술 스택
 
-<div align="center">
-
 ### 💻 프로그래밍 언어
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=social&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=social&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-Intermediate-0175C2?style=social&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white)
 
 ### 🌐 웹 기술
-![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?style=social&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Expert-1572B6?style=social&logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-Advanced-0769AD?style=social&logo=jquery&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-Advanced-005571?style=social&logo=javascript&logoColor=white)
-
-![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=social&logo=react&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-Intermediate-000000?style=social&logo=three.js&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-Basic-88CE02?style=social&logo=greensock&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-005571?style=plastic&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=plastic&logo=three.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=plastic&logo=greensock&logoColor=black)
 
 ### 🧩 백엔드
-![Flask](https://img.shields.io/badge/Flask-Expert-000000?style=social&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=social&logo=mysql&logoColor=white)
-![RESTful API](https://img.shields.io/badge/RESTful_API-Advanced-009688?style=social&logo=fastapi&logoColor=white)
-![Blueprint](https://img.shields.io/badge/Blueprint-Advanced-1A237E?style=social&logo=python&logoColor=white)
-
-![Nginx](https://img.shields.io/badge/Nginx-Intermediate-009639?style=social&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=social&logo=docker&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-Advanced-E95420?style=social&logo=ubuntu&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful_API-009688?style=plastic&logo=fastapi&logoColor=white)
+![Blueprint](https://img.shields.io/badge/Blueprint-1A237E?style=plastic&logo=python&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
 
 ### 📊 데이터 분석 / AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=social&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-Advanced-5C3EE8?style=social&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Expert-150458?style=social&logo=pandas&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/NumPy-Expert-013243?style=social&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Advanced-11557C?style=social&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-Intermediate-000000?style=social&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=plastic&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-000000?style=plastic&logo=opencv&logoColor=white)
 
 ### 🔧 개발 도구
-![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=social&logo=git&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-Advanced-43B02A?style=social&logo=firefox&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Expert-4B8BBE?style=social&logo=python&logoColor=white)
-
-![Requests](https://img.shields.io/badge/Requests-Expert-2D8CFF?style=social&logo=python&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-Intermediate-183A61?style=social&logo=virtualbox&logoColor=white)
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=firefox&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=plastic&logo=python&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-2D8CFF?style=plastic&logo=python&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=plastic&logo=virtualbox&logoColor=white)
 
 ---
 
