@@ -11,27 +11,36 @@
 ## 🌿 기술 스택
 
 ### 💻 프로그래밍 언어
-| Skill | Level | Experience |
-|-------|-------|------------|
-| ![](https://via.placeholder.com/20x20/3776AB/FFFFFF?text=🐍) **Python** | ![](https://via.placeholder.com/60x20/4CAF50/FFFFFF?text=Expert) | 3+ years |
-| ![](https://via.placeholder.com/20x20/F7DF1E/000000?text=JS) **JavaScript** | ![](https://via.placeholder.com/60x20/2196F3/FFFFFF?text=Advanced) | 2+ years |
-| ![](https://via.placeholder.com/20x20/0175C2/FFFFFF?text=🎯) **Dart** | ![](https://via.placeholder.com/60x20/FF9800/FFFFFF?text=Intermediate) | 1+ year |
+![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&style=flat&labelColor=3776AB&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&style=flat&labelColor=F7DF1E&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/static/v1?label=&message=Dart&color=0175C2&style=flat&labelColor=0175C2&logo=dart&logoColor=white)
 
 ### 🌐 웹 기술
-| Frontend | Level | Backend | Level |
-|----------|-------|---------|-------|
-| ![](https://via.placeholder.com/20x20/E34F26/FFFFFF?text=H) **HTML5** | ![](https://via.placeholder.com/50x20/4CAF50/FFFFFF?text=Expert) | ![](https://via.placeholder.com/20x20/000000/FFFFFF?text=F) **Flask** | ![](https://via.placeholder.com/50x20/4CAF50/FFFFFF?text=Expert) |
-| ![](https://via.placeholder.com/20x20/1572B6/FFFFFF?text=C) **CSS3** | ![](https://via.placeholder.com/50x20/4CAF50/FFFFFF?text=Expert) | ![](https://via.placeholder.com/20x20/4479A1/FFFFFF?text=M) **MySQL** | ![](https://via.placeholder.com/50x20/2196F3/FFFFFF?text=Advanced) |
-| ![](https://via.placeholder.com/20x20/0769AD/FFFFFF?text=J) **jQuery** | ![](https://via.placeholder.com/50x20/2196F3/FFFFFF?text=Advanced) | ![](https://via.placeholder.com/20x20/009639/FFFFFF?text=N) **Nginx** | ![](https://via.placeholder.com/50x20/FF9800/FFFFFF?text=Inter.) |
-| ![](https://via.placeholder.com/20x20/61DAFB/000000?text=R) **React** | ![](https://via.placeholder.com/50x20/2196F3/FFFFFF?text=Advanced) | ![](https://via.placeholder.com/20x20/2496ED/FFFFFF?text=D) **Docker** | ![](https://via.placeholder.com/50x20/FF9800/FFFFFF?text=Inter.) |
+![HTML5](https://img.shields.io/static/v1?label=Frontend&message=HTML5&color=E34F26&style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/static/v1?label=Frontend&message=CSS3&color=1572B6&style=flat&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/static/v1?label=Frontend&message=jQuery&color=0769AD&style=flat&logo=jquery&logoColor=white)
+![React](https://img.shields.io/static/v1?label=Frontend&message=React&color=61DAFB&style=flat&logo=react&logoColor=black)
+![Three.js](https://img.shields.io/static/v1?label=3D&message=Three.js&color=000000&style=flat&logo=three.js&logoColor=white)
+
+### 🧩 백엔드
+![Flask](https://img.shields.io/static/v1?label=Backend&message=Flask&color=000000&style=flat&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/static/v1?label=Database&message=MySQL&color=4479A1&style=flat&logo=mysql&logoColor=white)
+![REST](https://img.shields.io/static/v1?label=API&message=RESTful&color=009688&style=flat&logo=fastapi&logoColor=white)
+![Nginx](https://img.shields.io/static/v1?label=Server&message=Nginx&color=009639&style=flat&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/static/v1?label=Container&message=Docker&color=2496ED&style=flat&logo=docker&logoColor=white)
 
 ### 📊 데이터 분석 / AI
-| Technology | Proficiency | Use Case |
-|------------|-------------|----------|
-| ![](https://via.placeholder.com/20x20/FF6F00/FFFFFF?text=T) **TensorFlow** | ![](https://via.placeholder.com/70x20/2196F3/FFFFFF?text=Advanced) | Deep Learning |
-| ![](https://via.placeholder.com/20x20/5C3EE8/FFFFFF?text=O) **OpenCV** | ![](https://via.placeholder.com/70x20/2196F3/FFFFFF?text=Advanced) | Computer Vision |
-| ![](https://via.placeholder.com/20x20/150458/FFFFFF?text=P) **Pandas** | ![](https://via.placeholder.com/70x20/4CAF50/FFFFFF?text=Expert) | Data Analysis |
-| ![](https://via.placeholder.com/20x20/013243/FFFFFF?text=N) **NumPy** | ![](https://via.placeholder.com/70x20/4CAF50/FFFFFF?text=Expert) | Numerical Computing |
+![TensorFlow](https://img.shields.io/static/v1?label=AI&message=TensorFlow&color=FF6F00&style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/static/v1?label=Vision&message=OpenCV&color=5C3EE8&style=flat&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/static/v1?label=Data&message=Pandas&color=150458&style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/static/v1?label=Computing&message=NumPy&color=013243&style=flat&logo=numpy&logoColor=white)
+![YOLO](https://img.shields.io/static/v1?label=Detection&message=YOLO&color=000000&style=flat&logo=opencv&logoColor=white)
+
+### 🔧 개발 도구
+![Git](https://img.shields.io/static/v1?label=VCS&message=Git&color=F05032&style=flat&logo=git&logoColor=white)
+![Selenium](https://img.shields.io/static/v1?label=Automation&message=Selenium&color=43B02A&style=flat&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/static/v1?label=Scraping&message=BeautifulSoup&color=4B8BBE&style=flat&logo=python&logoColor=white)
+![Requests](https://img.shields.io/static/v1?label=HTTP&message=Requests&color=2D8CFF&style=flat&logo=python&logoColor=white)
 
 ---
 
