@@ -10,60 +10,59 @@
 
 ## 🌿 기술 스택
 
-### 💻 프로그래밍 언어
-`🐍 Python`&nbsp;&nbsp;&nbsp;&nbsp;`🟨 JavaScript`&nbsp;&nbsp;&nbsp;&nbsp;`🎯 Dart`
-
-### 🌐 웹 기술
-```
-▓▓ HTML5 ▓▓    ▓▓ CSS3 ▓▓    ▓▓ jQuery ▓▓    ▓▓ AJAX ▓▓
-```
-```
-▓▓ React ▓▓    ▓▓ Three.js ▓▓    ▓▓ GSAP ▓▓
-```
-
-### 🧩 백엔드
-```diff
-+ Flask      ████████████████████████████████████████ Expert
-+ MySQL      ████████████████████████████████████████ Advanced  
-+ REST API   ████████████████████████████████████████ Advanced
-+ Blueprint  ████████████████████████████████████████ Advanced
-- Nginx      ██████████████████████████████████░░░░░░ Intermediate
-- Docker     ██████████████████████████████████░░░░░░ Intermediate
-+ Ubuntu     ████████████████████████████████████████ Advanced
-```
-
-### 📊 데이터 분석 / AI
-```yaml
-TensorFlow:  ████████████████████████████████████████ Advanced
-OpenCV:      ████████████████████████████████████████ Advanced  
-Pandas:      ████████████████████████████████████████ Expert
-NumPy:       ████████████████████████████████████████ Expert
-Matplotlib:  ████████████████████████████████████████ Advanced
-YOLO:        ██████████████████████████████████░░░░░░ Intermediate
-```
-
-### 🔧 개발 도구
 <div align="center">
 
-| Tool | Level |
-|------|-------|
-| `🔧 Git` | ████████████████████████████████████████ |
-| `🕷️ Selenium` | ████████████████████████████████████████ |
-| `🍲 BeautifulSoup` | ████████████████████████████████████████ |
-| `📡 Requests` | ████████████████████████████████████████ |
-| `📦 VirtualBox` | ██████████████████████████████████░░░░░░ |
+**💻 프로그래밍 언어**
 
-</div>
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
+[![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/)
+
+**🌐 웹 기술**
+
+[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/ko/docs/Web/HTML)
+[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/ko/docs/Web/CSS)
+[![jQuery](https://skillicons.dev/icons?i=jquery)](https://jquery.com/)
+[![React](https://skillicons.dev/icons?i=react)](https://ko.reactjs.org/)
+[![Three.js](https://skillicons.dev/icons?i=threejs)](https://threejs.org/)
+
+**🧩 백엔드**
+
+[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![Nginx](https://skillicons.dev/icons?i=nginx)](https://nginx.org/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://ubuntu.com/)
+
+**📊 데이터 분석 / AI**
+
+[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
+[![OpenCV](https://skillicons.dev/icons?i=opencv)](https://opencv.org/)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**🔧 개발 도구**
+
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![Selenium](https://skillicons.dev/icons?i=selenium)](https://selenium-python.readthedocs.io/)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4B8BBE?style=flat&logo=python&logoColor=white)
 
 ---
 
-**스킬 레벨 범례**
-```
-████████████████████████████████████████ Expert (90-100%)
-████████████████████████████████████░░░░ Advanced (80-89%)
-██████████████████████████████████░░░░░░ Intermediate (70-79%)
-████████████████████████████░░░░░░░░░░░░ Basic (60-69%)
-```
+**한 줄로 모든 기술 스택 보기**
+
+[![My Skills](https://skillicons.dev/icons?i=python,js,dart,html,css,jquery,react,threejs,flask,mysql,nginx,docker,ubuntu,tensorflow,opencv,git,selenium)](https://skillicons.dev)
+
+**테마별 구분**
+
+**Frontend:** [![Frontend](https://skillicons.dev/icons?i=html,css,js,jquery,react,threejs&theme=light)](https://skillicons.dev)
+
+**Backend:** [![Backend](https://skillicons.dev/icons?i=python,flask,mysql,nginx,docker,ubuntu&theme=dark)](https://skillicons.dev)
+
+**AI/Data:** [![AI/Data](https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=light)](https://skillicons.dev)
+
+**Tools:** [![Tools](https://skillicons.dev/icons?i=git,docker,selenium&theme=dark)](https://skillicons.dev)
 
 ---
 
