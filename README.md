@@ -11,31 +11,59 @@
 ## 🌿 기술 스택
 
 ### 💻 프로그래밍 언어
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA4MCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjgwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iIzM3NzZBQiIvPgo8dGV4dCB4PSI0MCIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPlB5dGhvbjwvdGV4dD4KPC9zdmc+" alt="Python"/>
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjIwIiB2aWV3Qm94PSIwIDAgMTAwIDIwIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iI0Y3REYxRSIvPgo8dGV4dCB4PSI1MCIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0iYmxhY2siIHRleHQtYW5jaG9yPSJtaWRkbGUiPkphdmFTY3JpcHQ8L3RleHQ+Cjwvc3ZnPg==" alt="JavaScript"/>
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA2MCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjYwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iIzAxNzVDMiIvPgo8dGV4dCB4PSIzMCIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkRhcnQ8L3RleHQ+Cjwvc3ZnPg==" alt="Dart"/>
+`🐍 Python`&nbsp;&nbsp;&nbsp;&nbsp;`🟨 JavaScript`&nbsp;&nbsp;&nbsp;&nbsp;`🎯 Dart`
 
 ### 🌐 웹 기술
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA3MCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjcwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iI0UzNEYyNiIvPgo8dGV4dCB4PSIzNSIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkhUTUw1PC90ZXh0Pgo8L3N2Zz4=" alt="HTML5"/>
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA2MCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjYwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iIzE1NzJCNiIvPgo8dGV4dCB4PSIzMCIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkNTUzM8L3RleHQ+Cjwvc3ZnPg==" alt="CSS3"/>
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA3MCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjcwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iIzA3NjlBRCIvPgo8dGV4dCB4PSIzNSIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPmpRdWVyeTwvdGV4dD4KPC9zdmc+" alt="jQuery"/>
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA3MCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjcwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iIzYxREFGQiIvPgo8dGV4dCB4PSIzNSIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0iYmxhY2siIHRleHQtYW5jaG9yPSJtaWRkbGUiPlJlYWN0PC90ZXh0Pgo8L3N2Zz4=" alt="React"/>
+```
+▓▓ HTML5 ▓▓    ▓▓ CSS3 ▓▓    ▓▓ jQuery ▓▓    ▓▓ AJAX ▓▓
+```
+```
+▓▓ React ▓▓    ▓▓ Three.js ▓▓    ▓▓ GSAP ▓▓
+```
 
 ### 🧩 백엔드
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA3MCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjcwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iIzAwMDAwMCIvPgo8dGV4dCB4PSIzNSIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkZsYXNrPC90ZXh0Pgo8L3N2Zz4=" alt="Flask"/>
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA3MCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjcwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iIzQ0NzlBMSIvPgo8dGV4dCB4PSIzNSIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPk15U1FMPC90ZXh0Pgo8L3N2Zz4=" alt="MySQL"/>
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA3MCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjcwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iIzAwOTYzOSIvPgo8dGV4dCB4PSIzNSIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPk5naW54PC90ZXh0Pgo8L3N2Zz4=" alt="Nginx"/>
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA3MCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjcwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iIzI0OTZFRCIvPgo8dGV4dCB4PSIzNSIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkRvY2tlcjwvdGV4dD4KPC9zdmc+" alt="Docker"/>
+```diff
++ Flask      ████████████████████████████████████████ Expert
++ MySQL      ████████████████████████████████████████ Advanced  
++ REST API   ████████████████████████████████████████ Advanced
++ Blueprint  ████████████████████████████████████████ Advanced
+- Nginx      ██████████████████████████████████░░░░░░ Intermediate
+- Docker     ██████████████████████████████████░░░░░░ Intermediate
++ Ubuntu     ████████████████████████████████████████ Advanced
+```
 
 ### 📊 데이터 분석 / AI
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjIwIiB2aWV3Qm94PSIwIDAgMTAwIDIwIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iI0ZGNkYwMCIvPgo8dGV4dCB4PSI1MCIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPlRlbnNvckZsb3c8L3RleHQ+Cjwvc3ZnPg==" alt="TensorFlow"/>
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA4MCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjgwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iIzVDM0VFOCIvPgo8dGV4dCB4PSI0MCIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPk9wZW5DVjwvdGV4dD4KPC9zdmc+" alt="OpenCV"/>
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA3MCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjcwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iIzE1MDQ1OCIvPgo8dGV4dCB4PSIzNSIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPlBhbmRhczwvdGV4dD4KPC9zdmc+" alt="Pandas"/>
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA3MCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjcwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iIzAxMzI0MyIvPgo8dGV4dCB4PSIzNSIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPk51bVB5PC90ZXh0Pgo8L3N2Zz4=" alt="NumPy"/>
+```yaml
+TensorFlow:  ████████████████████████████████████████ Advanced
+OpenCV:      ████████████████████████████████████████ Advanced  
+Pandas:      ████████████████████████████████████████ Expert
+NumPy:       ████████████████████████████████████████ Expert
+Matplotlib:  ████████████████████████████████████████ Advanced
+YOLO:        ██████████████████████████████████░░░░░░ Intermediate
+```
 
 ### 🔧 개발 도구
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA1MCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjUwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iI0YwNTAzMiIvPgo8dGV4dCB4PSIyNSIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkdpdDwvdGV4dD4KPC9zdmc+" alt="Git"/>
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA4MCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjgwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iIzQzQjAyQSIvPgo8dGV4dCB4PSI0MCIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPlNlbGVuaXVtPC90ZXh0Pgo8L3N2Zz4=" alt="Selenium"/>
+<div align="center">
+
+| Tool | Level |
+|------|-------|
+| `🔧 Git` | ████████████████████████████████████████ |
+| `🕷️ Selenium` | ████████████████████████████████████████ |
+| `🍲 BeautifulSoup` | ████████████████████████████████████████ |
+| `📡 Requests` | ████████████████████████████████████████ |
+| `📦 VirtualBox` | ██████████████████████████████████░░░░░░ |
+
+</div>
+
+---
+
+**스킬 레벨 범례**
+```
+████████████████████████████████████████ Expert (90-100%)
+████████████████████████████████████░░░░ Advanced (80-89%)
+██████████████████████████████████░░░░░░ Intermediate (70-79%)
+████████████████████████████░░░░░░░░░░░░ Basic (60-69%)
+```
 
 ---
 
