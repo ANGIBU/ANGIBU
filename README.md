@@ -11,42 +11,27 @@
 ## 🌿 기술 스택
 
 ### 💻 프로그래밍 언어
-![Python](https://badgen.net/badge/Python/Expert/blue?icon=python)
-![JavaScript](https://badgen.net/badge/JavaScript/Advanced/yellow?icon=javascript)
-![Dart](https://badgen.net/badge/Dart/Intermediate/cyan?icon=dart)
+| Skill | Level | Experience |
+|-------|-------|------------|
+| ![](https://via.placeholder.com/20x20/3776AB/FFFFFF?text=🐍) **Python** | ![](https://via.placeholder.com/60x20/4CAF50/FFFFFF?text=Expert) | 3+ years |
+| ![](https://via.placeholder.com/20x20/F7DF1E/000000?text=JS) **JavaScript** | ![](https://via.placeholder.com/60x20/2196F3/FFFFFF?text=Advanced) | 2+ years |
+| ![](https://via.placeholder.com/20x20/0175C2/FFFFFF?text=🎯) **Dart** | ![](https://via.placeholder.com/60x20/FF9800/FFFFFF?text=Intermediate) | 1+ year |
 
 ### 🌐 웹 기술
-![HTML5](https://badgen.net/badge/HTML5/Expert/orange?icon=html5)
-![CSS3](https://badgen.net/badge/CSS3/Expert/blue?icon=css3)
-![jQuery](https://badgen.net/badge/jQuery/Advanced/blue?icon=jquery)
-![AJAX](https://badgen.net/badge/AJAX/Advanced/green)
-![React](https://badgen.net/badge/React/Advanced/cyan?icon=react)
-![Three.js](https://badgen.net/badge/Three.js/Intermediate/black)
-![GSAP](https://badgen.net/badge/GSAP/Basic/green)
-
-### 🧩 백엔드
-![Flask](https://badgen.net/badge/Flask/Expert/black?icon=flask)
-![MySQL](https://badgen.net/badge/MySQL/Advanced/blue?icon=mysql)
-![RESTful API](https://badgen.net/badge/REST%20API/Advanced/green)
-![Blueprint](https://badgen.net/badge/Blueprint/Advanced/purple)
-![Nginx](https://badgen.net/badge/Nginx/Intermediate/green?icon=nginx)
-![Docker](https://badgen.net/badge/Docker/Intermediate/blue?icon=docker)
-![Ubuntu](https://badgen.net/badge/Ubuntu/Advanced/orange?icon=ubuntu)
+| Frontend | Level | Backend | Level |
+|----------|-------|---------|-------|
+| ![](https://via.placeholder.com/20x20/E34F26/FFFFFF?text=H) **HTML5** | ![](https://via.placeholder.com/50x20/4CAF50/FFFFFF?text=Expert) | ![](https://via.placeholder.com/20x20/000000/FFFFFF?text=F) **Flask** | ![](https://via.placeholder.com/50x20/4CAF50/FFFFFF?text=Expert) |
+| ![](https://via.placeholder.com/20x20/1572B6/FFFFFF?text=C) **CSS3** | ![](https://via.placeholder.com/50x20/4CAF50/FFFFFF?text=Expert) | ![](https://via.placeholder.com/20x20/4479A1/FFFFFF?text=M) **MySQL** | ![](https://via.placeholder.com/50x20/2196F3/FFFFFF?text=Advanced) |
+| ![](https://via.placeholder.com/20x20/0769AD/FFFFFF?text=J) **jQuery** | ![](https://via.placeholder.com/50x20/2196F3/FFFFFF?text=Advanced) | ![](https://via.placeholder.com/20x20/009639/FFFFFF?text=N) **Nginx** | ![](https://via.placeholder.com/50x20/FF9800/FFFFFF?text=Inter.) |
+| ![](https://via.placeholder.com/20x20/61DAFB/000000?text=R) **React** | ![](https://via.placeholder.com/50x20/2196F3/FFFFFF?text=Advanced) | ![](https://via.placeholder.com/20x20/2496ED/FFFFFF?text=D) **Docker** | ![](https://via.placeholder.com/50x20/FF9800/FFFFFF?text=Inter.) |
 
 ### 📊 데이터 분석 / AI
-![TensorFlow](https://badgen.net/badge/TensorFlow/Advanced/orange?icon=tensorflow)
-![OpenCV](https://badgen.net/badge/OpenCV/Advanced/blue)
-![Pandas](https://badgen.net/badge/Pandas/Expert/purple)
-![NumPy](https://badgen.net/badge/NumPy/Expert/blue)
-![Matplotlib](https://badgen.net/badge/Matplotlib/Advanced/red)
-![YOLO](https://badgen.net/badge/YOLO/Intermediate/black)
-
-### 🔧 개발 도구
-![Git](https://badgen.net/badge/Git/Advanced/red?icon=git)
-![Selenium](https://badgen.net/badge/Selenium/Advanced/green)
-![BeautifulSoup](https://badgen.net/badge/BeautifulSoup/Expert/blue)
-![Requests](https://badgen.net/badge/Requests/Expert/blue)
-![VirtualBox](https://badgen.net/badge/VirtualBox/Intermediate/blue)
+| Technology | Proficiency | Use Case |
+|------------|-------------|----------|
+| ![](https://via.placeholder.com/20x20/FF6F00/FFFFFF?text=T) **TensorFlow** | ![](https://via.placeholder.com/70x20/2196F3/FFFFFF?text=Advanced) | Deep Learning |
+| ![](https://via.placeholder.com/20x20/5C3EE8/FFFFFF?text=O) **OpenCV** | ![](https://via.placeholder.com/70x20/2196F3/FFFFFF?text=Advanced) | Computer Vision |
+| ![](https://via.placeholder.com/20x20/150458/FFFFFF?text=P) **Pandas** | ![](https://via.placeholder.com/70x20/4CAF50/FFFFFF?text=Expert) | Data Analysis |
+| ![](https://via.placeholder.com/20x20/013243/FFFFFF?text=N) **NumPy** | ![](https://via.placeholder.com/70x20/4CAF50/FFFFFF?text=Expert) | Numerical Computing |
 
 ---
 
