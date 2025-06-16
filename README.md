@@ -11,36 +11,31 @@
 ## 🌿 기술 스택
 
 ### 💻 프로그래밍 언어
-![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&style=flat&labelColor=3776AB&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&style=flat&labelColor=F7DF1E&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/static/v1?label=&message=Dart&color=0175C2&style=flat&labelColor=0175C2&logo=dart&logoColor=white)
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA4MCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjgwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iIzM3NzZBQiIvPgo8dGV4dCB4PSI0MCIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPlB5dGhvbjwvdGV4dD4KPC9zdmc+" alt="Python"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjIwIiB2aWV3Qm94PSIwIDAgMTAwIDIwIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iI0Y3REYxRSIvPgo8dGV4dCB4PSI1MCIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0iYmxhY2siIHRleHQtYW5jaG9yPSJtaWRkbGUiPkphdmFTY3JpcHQ8L3RleHQ+Cjwvc3ZnPg==" alt="JavaScript"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA2MCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjYwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iIzAxNzVDMiIvPgo8dGV4dCB4PSIzMCIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkRhcnQ8L3RleHQ+Cjwvc3ZnPg==" alt="Dart"/>
 
 ### 🌐 웹 기술
-![HTML5](https://img.shields.io/static/v1?label=Frontend&message=HTML5&color=E34F26&style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/static/v1?label=Frontend&message=CSS3&color=1572B6&style=flat&logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/static/v1?label=Frontend&message=jQuery&color=0769AD&style=flat&logo=jquery&logoColor=white)
-![React](https://img.shields.io/static/v1?label=Frontend&message=React&color=61DAFB&style=flat&logo=react&logoColor=black)
-![Three.js](https://img.shields.io/static/v1?label=3D&message=Three.js&color=000000&style=flat&logo=three.js&logoColor=white)
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA3MCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjcwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iI0UzNEYyNiIvPgo8dGV4dCB4PSIzNSIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkhUTUw1PC90ZXh0Pgo8L3N2Zz4=" alt="HTML5"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA2MCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjYwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iIzE1NzJCNiIvPgo8dGV4dCB4PSIzMCIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkNTUzM8L3RleHQ+Cjwvc3ZnPg==" alt="CSS3"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA3MCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjcwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iIzA3NjlBRCIvPgo8dGV4dCB4PSIzNSIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPmpRdWVyeTwvdGV4dD4KPC9zdmc+" alt="jQuery"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA3MCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjcwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iIzYxREFGQiIvPgo8dGV4dCB4PSIzNSIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0iYmxhY2siIHRleHQtYW5jaG9yPSJtaWRkbGUiPlJlYWN0PC90ZXh0Pgo8L3N2Zz4=" alt="React"/>
 
 ### 🧩 백엔드
-![Flask](https://img.shields.io/static/v1?label=Backend&message=Flask&color=000000&style=flat&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/static/v1?label=Database&message=MySQL&color=4479A1&style=flat&logo=mysql&logoColor=white)
-![REST](https://img.shields.io/static/v1?label=API&message=RESTful&color=009688&style=flat&logo=fastapi&logoColor=white)
-![Nginx](https://img.shields.io/static/v1?label=Server&message=Nginx&color=009639&style=flat&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/static/v1?label=Container&message=Docker&color=2496ED&style=flat&logo=docker&logoColor=white)
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA3MCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjcwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iIzAwMDAwMCIvPgo8dGV4dCB4PSIzNSIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkZsYXNrPC90ZXh0Pgo8L3N2Zz4=" alt="Flask"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA3MCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjcwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iIzQ0NzlBMSIvPgo8dGV4dCB4PSIzNSIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPk15U1FMPC90ZXh0Pgo8L3N2Zz4=" alt="MySQL"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA3MCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjcwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iIzAwOTYzOSIvPgo8dGV4dCB4PSIzNSIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPk5naW54PC90ZXh0Pgo8L3N2Zz4=" alt="Nginx"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA3MCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjcwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iIzI0OTZFRCIvPgo8dGV4dCB4PSIzNSIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkRvY2tlcjwvdGV4dD4KPC9zdmc+" alt="Docker"/>
 
 ### 📊 데이터 분석 / AI
-![TensorFlow](https://img.shields.io/static/v1?label=AI&message=TensorFlow&color=FF6F00&style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/static/v1?label=Vision&message=OpenCV&color=5C3EE8&style=flat&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/static/v1?label=Data&message=Pandas&color=150458&style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/static/v1?label=Computing&message=NumPy&color=013243&style=flat&logo=numpy&logoColor=white)
-![YOLO](https://img.shields.io/static/v1?label=Detection&message=YOLO&color=000000&style=flat&logo=opencv&logoColor=white)
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjIwIiB2aWV3Qm94PSIwIDAgMTAwIDIwIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iI0ZGNkYwMCIvPgo8dGV4dCB4PSI1MCIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPlRlbnNvckZsb3c8L3RleHQ+Cjwvc3ZnPg==" alt="TensorFlow"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA4MCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjgwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iIzVDM0VFOCIvPgo8dGV4dCB4PSI0MCIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPk9wZW5DVjwvdGV4dD4KPC9zdmc+" alt="OpenCV"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA3MCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjcwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iIzE1MDQ1OCIvPgo8dGV4dCB4PSIzNSIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPlBhbmRhczwvdGV4dD4KPC9zdmc+" alt="Pandas"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA3MCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjcwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iIzAxMzI0MyIvPgo8dGV4dCB4PSIzNSIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPk51bVB5PC90ZXh0Pgo8L3N2Zz4=" alt="NumPy"/>
 
 ### 🔧 개발 도구
-![Git](https://img.shields.io/static/v1?label=VCS&message=Git&color=F05032&style=flat&logo=git&logoColor=white)
-![Selenium](https://img.shields.io/static/v1?label=Automation&message=Selenium&color=43B02A&style=flat&logo=selenium&logoColor=white)
-![BeautifulSoup](https://img.shields.io/static/v1?label=Scraping&message=BeautifulSoup&color=4B8BBE&style=flat&logo=python&logoColor=white)
-![Requests](https://img.shields.io/static/v1?label=HTTP&message=Requests&color=2D8CFF&style=flat&logo=python&logoColor=white)
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA1MCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjUwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iI0YwNTAzMiIvPgo8dGV4dCB4PSIyNSIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkdpdDwvdGV4dD4KPC9zdmc+" alt="Git"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA4MCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjgwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iIzQzQjAyQSIvPgo8dGV4dCB4PSI0MCIgeT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPlNlbGVuaXVtPC90ZXh0Pgo8L3N2Zz4=" alt="Selenium"/>
 
 ---
 
