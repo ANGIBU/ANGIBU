@@ -10,8 +10,6 @@
 
 ## 🌿 기술 스택
 
-<div align="center">
-
 **💻 프로그래밍 언어**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -55,8 +53,6 @@
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square&logo=python&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-2D8CFF?style=flat-square&logo=python&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
-
-</div>
 
 ---
 
