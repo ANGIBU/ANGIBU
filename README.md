@@ -56,22 +56,6 @@
 
 ---
 
-**한 줄로 모든 기술 스택 보기**
-
-[![My Skills](https://skillicons.dev/icons?i=python,js,dart,html,css,jquery,react,threejs,flask,mysql,nginx,docker,ubuntu,tensorflow,opencv,git,selenium)](https://skillicons.dev)
-
-**테마별 구분**
-
-**Frontend:** [![Frontend](https://skillicons.dev/icons?i=html,css,js,jquery,react,threejs&theme=light)](https://skillicons.dev)
-
-**Backend:** [![Backend](https://skillicons.dev/icons?i=python,flask,mysql,nginx,docker,ubuntu&theme=dark)](https://skillicons.dev)
-
-**AI/Data:** [![AI/Data](https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=light)](https://skillicons.dev)
-
-**Tools:** [![Tools](https://skillicons.dev/icons?i=git,docker,selenium&theme=dark)](https://skillicons.dev)
-
----
-
 ## 🎋 주요 프로젝트
 
 <div align="center">
