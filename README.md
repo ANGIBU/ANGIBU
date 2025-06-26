@@ -88,7 +88,7 @@
     </tr>
     <tr>
       <td align="center" width="300">
-        <h3>🔧 유용한 도구들</h3>
+        <h3>🔧 개발 도구</h3>
         <a href="https://github.com/ANGIBU/Useful_tools">
           <img src="https://img.shields.io/badge/Useful_Tools-2E8B57?style=for-the-badge&logo=tools&logoColor=white" alt="Useful Tools"/>
         </a>
@@ -96,7 +96,7 @@
         <sub>Git 자동 커밋 도구<br>동영상/사진 파일 자동 정리</sub>
       </td>
       <td align="center" width="300">
-        <h3>🚨 스마트 시티</h3>
+        <h3>🚨 스마트 가로등</h3>
         <a href="https://github.com/ANGIBU/smart_city">
           <img src="https://img.shields.io/badge/Smart_City-FF6B6B?style=for-the-badge&logo=smart-city&logoColor=white" alt="Smart City"/>
         </a>
