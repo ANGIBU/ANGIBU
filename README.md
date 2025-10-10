@@ -14,45 +14,41 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 **🌐 웹 기술**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-005571?style=flat-square&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-**🧩 백엔드**
+**🧩 백엔드 & 인프라**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/RESTful_API-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Blueprint](https://img.shields.io/badge/Blueprint-1A237E?style=flat-square&logo=python&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 **📊 데이터 분석 / AI**
 
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-000000?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 **🔧 개발 도구**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=firefox&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square&logo=python&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-2D8CFF?style=flat-square&logo=python&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 
 ---
 
@@ -62,46 +58,46 @@
   <table>
     <tr>
       <td align="center" width="300">
-        <h3>🗂️ 포트폴리오</h3>
+        <h3>🗂️ Portfolio</h3>
         <a href="https://www.portfolio.smartlivon.com/">
-          <img src="https://img.shields.io/badge/portfolio-45B7D1?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
+          <img src="https://img.shields.io/badge/Portfolio-45B7D1?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
         </a>
         <br>
-        <sub>반응형 웹 포트폴리오<br>Docker & Nginx 배포</sub>
+        <sub>개인 포트폴리오 웹사이트<br>Flask, React, Three.js</sub>
       </td>
       <td align="center" width="300">
-        <h3>🔥 투투</h3>
-        <a href="https://www.tutu.smartlivon.com/todo">
-          <img src="https://img.shields.io/badge/tutu-28A745?style=for-the-badge&logo=checklist&logoColor=white" alt="Today Todo"/>
+        <h3>📝 Tutu</h3>
+        <a href="https://www.todotutu.com/">
+          <img src="https://img.shields.io/badge/Tutu-28A745?style=for-the-badge&logo=checklist&logoColor=white" alt="Tutu"/>
         </a>
         <br>
-        <sub>할 일 관리 웹 애플리케이션<br>스마트한 일정 관리</sub>
+        <sub>소셜 투두리스트 플랫폼<br>React, Flask, MySQL</sub>
       </td>
       <td align="center" width="300">
-        <h3>🤝 손길</h3>
-        <a href="https://www.songil.smartlivon.com/todo">
-          <img src="https://img.shields.io/badge/songil-FFC107?style=for-the-badge&logoColor=black" alt="Songil"/>
+        <h3>🎨 Art Gallery</h3>
+        <a href="https://www.artgallery.smartlivon.com/">
+          <img src="https://img.shields.io/badge/Art_Gallery-9C27B0?style=for-the-badge&logo=palette&logoColor=white" alt="Art Gallery"/>
         </a>
         <br>
-        <sub>실종자 조회&찾기 플랫폼<br>도움의 손길을 주세요</sub>
+        <sub>인터랙티브 예술 전시 플랫폼<br>Canvas API, Three.js</sub>
       </td>
     </tr>
     <tr>
       <td align="center" width="300">
-        <h3>🔧 개발 도구</h3>
+        <h3>🚨 Smart City</h3>
+        <a href="https://github.com/junhyuk000/smart_city">
+          <img src="https://img.shields.io/badge/Smart_City-FF6B6B?style=for-the-badge&logo=smart-city&logoColor=white" alt="Smart City"/>
+        </a>
+        <br>
+        <sub>지능형 스마트 가로등 시스템<br>YOLOv8, IoT, ESP32-CAM</sub>
+      </td>
+      <td align="center" width="300">
+        <h3>🔧 Useful Tools</h3>
         <a href="https://github.com/ANGIBU/Useful_tools">
           <img src="https://img.shields.io/badge/Useful_Tools-2E8B57?style=for-the-badge&logo=tools&logoColor=white" alt="Useful Tools"/>
         </a>
         <br>
-        <sub>Git 자동 커밋 도구<br>동영상/사진 파일 자동 정리</sub>
-      </td>
-      <td align="center" width="300">
-        <h3>🚨 스마트 가로등</h3>
-        <a href="https://github.com/ANGIBU/smart_city">
-          <img src="https://img.shields.io/badge/Smart_City-FF6B6B?style=for-the-badge&logo=smart-city&logoColor=white" alt="Smart City"/>
-        </a>
-        <br>
-        <sub>YOLOv8 기반 불법주차 자동감지<br>ESP32-CAM 실시간 스트리밍</sub>
+        <sub>개발 생산성 도구<br>Git 자동화, 파일 정리</sub>
       </td>
     </tr>
   </table>
@@ -109,10 +105,26 @@
 
 ---
 
+## 🎓 교육 & 경험
+
+**📚 교육**
+- 삼성아카데미 1기 Python AIOT 부트캠프 (2024.09 - 2025.05)
+  - AI 모델 개발 및 웹 프론트엔드 집중 교육
+  - YOLOv8, React, Three.js, Flask 실무 프로젝트
+
+**🏆 경진대회**
+- 금융보안 문제 추론 시스템 (214위/1062명, 2024.08)
+- 고객경험 분류 시스템 (86위/535명, 2024.08-09)
+- 설비 이상감지 시스템 (123위/801명, 2024.09-10)
+- 토스 CTR 예측 모델 (408위/2506명, 2024.09-10)
+
+---
+
 ## 📊 GitHub 통계
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANGIBU&show_icons=true&theme=vue&border_color=2E8B57&icon_color=2E8B57&title_color=2E8B57" alt="GitHub 통계"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANGIBU&layout=compact&langs_count=8&theme=vue&title_color=2E8B57&hide_border=true" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ANGIBU&show_icons=true&theme=vue&border_color=2E8B57&icon_color=2E8B57&title_color=2E8B57" alt="GitHub 통계"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANGIBU&layout=compact&langs_count=8&theme=vue&title_color=2E8B57&hide_border=true" alt="Top Langs"/>
 </div>
 
 <br>
@@ -134,31 +146,20 @@
         <code>facecom2000@gmail.com</code>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="디스코드"/>
+        <img src="https://img.shields.io/badge/Phone-2E8B57?style=for-the-badge&logo=phone&logoColor=white" alt="전화"/>
         <br>
-        <code>panda_nim</code>
+        <code>010-7905-5370</code>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="인스타그램"/>
+        <br>
+        <code>@angib_02</code>
       </td>
     </tr>
   </table>
 </div>
 
 <br>
-
-<!-- 워터마크 섹션 -->
-<!--
-<div align="center">
-  <img src="https://img.shields.io/badge/Made_by-ANGIBU-2E8B57?style=for-the-badge&logoColor=white" alt="Made by ANGIBU"/>
-</div>
-!-->
-
-<!-- 
-  이 프로필은 ANGIBU가 제작했습니다. 
-  https://github.com/ANGIBU
-  해당 ReadMe사용시 아래 워터마크 섹션을 무조건 기입해주세요
-  미기입시 스크립트 추적 후 법적처리 예정
--->
-
-<!-- 워터마크 섹션 -->
 
 <div align="right">
   <sub><sup>ⓒ 2023-2025 ANGIBU. All rights reserved.</sup></sub>
