@@ -118,7 +118,7 @@
 **📚 교육**
 - 삼성아카데미 1기 Python AIOT 부트캠프 (2024년 9월 - 2025년 5월)
   - AI 모델 개발 및 웹 프론트엔드 집중 교육
-  - YOLOv8, React, Three.js, Flask 실무 프로젝트
+  - AI모델(machine learning), YOLOv8, Flask 실무 프로젝트
 
 **🏆 경진대회**
 - 금융보안 문제 추론 시스템 (214위/1062명, 2025년 8월)
