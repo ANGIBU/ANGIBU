@@ -68,8 +68,6 @@
 - 제2회 Medical AI (MAI) (53위/290명, 2025년 11월~12월)
 ---
 
-## 📊 GitHub 통계
-
 <br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="snake animation"/>
