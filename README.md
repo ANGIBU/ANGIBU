@@ -1,6 +1,4 @@
 # <div align="center">🐍｜Python개발자 - 안기부
-<h3>포트폴리오 웹 사이트 : https://www.portfolio.smartlivon.com/</h1>
-
 ---
 
 ## 🌿 기술 스택
@@ -55,65 +53,11 @@
 
 ---
 
-## 🎋 주요 프로젝트
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="300">
-        <h3>🗂️ Portfolio</h3>
-        <a href="https://www.portfolio.smartlivon.com/">
-          <img src="https://img.shields.io/badge/Portfolio-45B7D1?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
-        </a>
-        <br>
-        <sub>개인 포트폴리오 웹사이트<br>Flask, React, Three.js</sub>
-      </td>
-      <td align="center" width="300">
-        <h3>📝 Tutu</h3>
-        <a href="https://www.todotutu.com/">
-          <img src="https://img.shields.io/badge/Tutu-28A745?style=for-the-badge&logo=checklist&logoColor=white" alt="Tutu"/>
-        </a>
-        <br>
-        <sub>소셜 투두리스트 플랫폼<br>React, Flask, MySQL</sub>
-      </td>
-      <td align="center" width="300">
-        <h3>🎨 Art Gallery</h3>
-        <a href="https://www.artgallery.smartlivon.com/">
-          <img src="https://img.shields.io/badge/Art_Gallery-9C27B0?style=for-the-badge&logo=palette&logoColor=white" alt="Art Gallery"/>
-        </a>
-        <br>
-        <sub>인터랙티브 예술 전시 플랫폼<br>Canvas API, Three.js</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="300">
-        <h3>🚨 Smart City</h3>
-        <a href="https://github.com/junhyuk000/smart_city">
-          <img src="https://img.shields.io/badge/Smart_City-FF6B6B?style=for-the-badge&logo=smart-city&logoColor=white" alt="Smart City"/>
-        </a>
-        <br>
-        <sub>지능형 스마트 가로등 시스템<br>YOLOv8, IoT, ESP32-CAM</sub>
-      </td>
-      <td align="center" width="300">
-        <h3>🔧 Useful Tools</h3>
-        <a href="https://github.com/ANGIBU/Useful_tools">
-          <img src="https://img.shields.io/badge/Useful_Tools-2E8B57?style=for-the-badge&logo=tools&logoColor=white" alt="Useful Tools"/>
-        </a>
-        <br>
-        <sub>개발 생산성 도구<br>Git 자동화, 파일 정리</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🎓 교육 & 경험
 
 **📚 교육**
-- 삼성아카데미 1기 Python AIOT 부트캠프 (2024년 9월 - 2025년 5월)
-  - AI 모델 개발 및 웹 프론트엔드 집중 교육
-  - AI모델(machine learning), YOLOv8, Flask 실무 프로젝트
+- AI 모델 개발 및 웹 프론트엔드 집중 교육
+- AI모델(machine learning), YOLOv8, Flask 실무 프로젝트
 
 **🏆 경진대회**
 - 금융보안 문제 추론 시스템 (214위/1062명, 2025년 8월)
