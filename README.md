@@ -70,11 +70,6 @@
 
 ## 📊 GitHub 통계
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANGIBU&show_icons=true&theme=vue&border_color=2E8B57&icon_color=2E8B57&title_color=2E8B57" alt="GitHub 통계"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANGIBU&layout=compact&langs_count=8&theme=vue&title_color=2E8B57&hide_border=true" alt="Top Langs"/>
-</div>
-
 <br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="snake animation"/>
