@@ -1,4 +1,4 @@
-# <div align="center">🐍｜Python개발자 - 안기부
+# <div align="center">🐍｜개발자 - 안기부
 ---
 
 ## 🌿 기술 스택
