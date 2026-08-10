@@ -56,7 +56,7 @@
 ## 🎓 교육 & 경험
 
 **📚 교육**
-- AI 모델 개발 및 웹 프론트엔드 집중 교육
+- 삼성 아카데미 1기 수료생 - AI 모델 개발 및 웹 프론트엔드 집중 교육
 - AI모델(machine learning), YOLOv8, Flask 실무 프로젝트
 
 **🏆 경진대회**
@@ -75,30 +75,6 @@
 <br>
 
 ---
-
-## 🌱 연락처
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="이메일"/>
-        <br>
-        <code>facecom2000@gmail.com</code>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Phone-2E8B57?style=for-the-badge&logo=phone&logoColor=white" alt="전화"/>
-        <br>
-        <code>010-7905-5370</code>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="인스타그램"/>
-        <br>
-        <code>@angib_02</code>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <br>
 
